@@ -28,3 +28,6 @@ main{
     border: 1px solid #f6bb9e;
     background-color: #fff;
 }
+.round{
+    border-radius: 50%;
+}
