@@ -1,5 +1,13 @@
+@import url(normalize.css)
+body{
+    background-color: beige;
+    color:blueviolet;
+}
+h1{
+    color:brown;
+}
 #container{
-    background-color: rgb(236, 183, 112);
-    width:980px;
+    width:80%;
+    background-color:lightpink;
     margin:0px auto;
 }
