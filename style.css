@@ -1,7 +1,7 @@
-@import url(normalize.css)
+@import url(normalize.css);
 body{
     background-color: beige;
-    color:blueviolet;
+    color: blueviolet;
 }
 h1{
     color:brown;
