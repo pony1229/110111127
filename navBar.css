@@ -1,0 +1,19 @@
+nav{
+    background-color: azure;
+    text-align: right;
+}
+
+nav li{
+    list-style-type:none;
+    display:inline-block;
+}
+nav li a{
+    display: block;
+    text-decoration: none;
+    padding:10px;
+    color: gray;
+}
+nav li a:hover{
+    background-color: lightblue;
+    color:blue;
+}
